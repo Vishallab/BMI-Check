@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">BMI Calc</string>
+    <string name="reset">RESET</string>
+    <string name="ft">ft</string>
+    <string name="in">in</string>
+    <string name="cm">cm</string>
+    <string name="kg">KG</string>
+    <string name="weight">Weight</string>
+    <string name="_00_00">0.00</string>
+    <string name="bmi">BMI</string>
+    <string name="click">Click</string>
+    <string name="pounds">Pounds</string>
+    <string name="height_ft">Height ft</string>
+    <string name="height_in">Height In</string>
+    <string name="height_cm">Height cm</string>
+    <string name="weight_kg">Weight kg</string>
+    <string name="weight_lbs">Weight lbs</string>
+    <string name="check_it">Check it !!</string>
+    <string name="underweight">Underweight 💤</string>
+    <string name="severely_underweight">Severely underweight 🤷‍♂️</string>
+    <string name="_16_0_19_9">16.0 – 19.9</string>
+    <string name="very_severely_underweight">Very Severely underweight 🤦‍♂️</string>
+    <string name="_16_0"><![CDATA[<16.0]]></string>
+    <string name="_17_0_18_4">17.0 – 18.4</string>
+    <string name="healthy">Healthy 👍</string>
+    <string name="_18_5_24_9">18.5 – 24.9</string>
+    <string name="overweight">Overweight ❌</string>
+    <string name="_25_0_29_9">25.0 – 29.9</string>
+    <string name="_30_0_34_9">30.0 – 34.9</string>
+    <string name="obese_class_i">Obese Class I 1️⃣️</string>
+    <string name="obese_class_ii">Obese Class II 2️⃣</string>
+    <string name="_35_0_39_9">35.0 – 39.9</string>
+    <string name="obese_class_iii">Obese Class III 3️⃣</string>
+    <string name="_40_0"><![CDATA[>=40.0]]></string>
+    <string name="body_mass_index_bmi">Body Mass Index (BMI)</string>
+    <string name="need_healthy">For healthy life You have to increase</string>
+    <string name="lose_healthy">For healthy life You have to decrease</string>
+    <string name="bio">Made with ❤ by Vishal Mishra 😉</string>
+
+    <string-array name="category">
+
+        <item>FT</item>
+        <item>CM</item>
+
+    </string-array>
+
+
+    <string-array name="WeightCategory">
+
+        <item>KG</item>
+        <item>LBS</item>
+
+    </string-array>
+</resources>
